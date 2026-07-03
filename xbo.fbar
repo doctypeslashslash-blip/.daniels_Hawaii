@@ -1,0 +1,5 @@
+{
+  "category": "https://portsfallout.com/api/category/?format=json",
+  "port": "https://portsfallout.com/api/port/?format=json",
+  "fallout": "https://portsfallout.com/api/fallout/?format=json"
+}
